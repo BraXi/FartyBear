@@ -1,0 +1,12 @@
+GL2:
+	- opengl 2.0
+	- class GL2_Shader korzysta z shaderów w wersji 1.1
+	- shader model 2/3
+	- class VertexBufferObject korzysta z VBO
+	- odwołania do GL 1.x
+GL3:
+	- opengl 3.3
+	- class GL2_Shader korzysta z shaderów w wersji 3.3
+	- shader model 3/4/5
+	- class VertexBufferObject korzysta z VAO
+	- profil core bez odwołań do starszych wersji GL
