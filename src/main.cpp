@@ -8,10 +8,10 @@ All rights reserved.
 
 This file is part of the Unkknow Engine Source Code ("Unkknow Engine Source Code").
 
+GNU GPL v2 Licensed.
+
 Contact email: thebraxi@o2.pl
 Contact website: http://www.braxi.org
-
-CONFIDENTIAL.
 
 ===========================================================================
 */
