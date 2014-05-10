@@ -6,6 +6,9 @@ Tested on Windows 7 and Ubuntu 13.10/14.04
 
 Have fun with that code =)
 
+You can find compiled version with assets here:
+Windows (32bit): http://braxi.boo.pl/download/fartybear_v04_win32.zip
+Linux (64bit): http://braxi.boo.pl/download/fartybear_v042_linux64.tar.gz
 
 Requirements
 ============
