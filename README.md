@@ -10,6 +10,10 @@ You can find compiled version with assets here:
 * Windows (32bit): http://braxi.boo.pl/download/fartybear_v04_win32.zip
 * Linux (64bit): http://braxi.boo.pl/download/fartybear_v042_linux64.tar.gz
 
+You can also see a model and animation converter i made that converts SMD anims and meshes 
+to my own internal format, see it's code in src/ModelGen :)
+
+
 Requirements
 ============
 * CPU @ 1Ghz should be enough
